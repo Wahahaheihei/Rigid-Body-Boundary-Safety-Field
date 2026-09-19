@@ -1,8 +1,0 @@
-﻿item,value
-reference_encounter,Scenario 2 deterministic baseline encounter
-E_ref,5.164152141159e+02
-T_ref_s,1.000000000000e+00
-E_ref_definition,max aircraft-level ASPE over all interacting aircraft and time instants
-peak_aircraft,B
-peak_time_s,13.900000
-peak_aircraft_level_ASPE,5.164152141159e+02
